@@ -5,7 +5,3 @@ changfuniunai update-2
 changfuniunai update-3
 changfuniunai update-4
 changfuniunai update-5
-changfuniunai update-6
-changfuniunai update-7
-changfuniunai update-8
-changfuniunai update-9
