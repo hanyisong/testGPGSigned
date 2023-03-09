@@ -9,4 +9,4 @@ sign to GPG encrypt
 git --config user.email ‘别人的邮箱'
 
 经典乌龙（模仿Linus Torvalds）：https://github.com/slimsag/linux
-
+如何通过GPG签名：https://zhuanlan.zhihu.com/p/445036058
